@@ -1,6 +1,6 @@
 ### Hello friends! 
 ### I'm Pat, my pronouns are they/them
-![a bicolor tabby cat napping on a handknit blanket](C:\Users\catal\Downloads\Midas_the_cat.jpeg "Midas the Cat")
+![a bicolor tabby cat napping on a handknit blanket](Midas_the_cat.jpeg "Midas the Cat")
 
 <!--
 
