@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello friends! 
+### I'm Pat, my pronouns are they/them
+![a bicolor tabby cat napping on a handknit blanket](**C:\Users\catal\Downloads\Midas_the_cat.jpeg** "Midas the Cat")
 
 <!--
-**PatDaoust/PatDaoust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
