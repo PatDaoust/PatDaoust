@@ -7,10 +7,10 @@ I'm a programmer with experience in Python and Java
 
 ## 🔭 I’m currently working on 
 
-An exciting little bit of code that can recommend what yarn to use! 
+An exciting [little bit of code](https://github.com/PatDaoust/YarnProject) that can recommend what yarn to use! 
 I'm starting with recommendations for specific patterns, and plan to expanded it to recommend substitution for any yarn
 
-working my way through the Project Euler problems.
+working my way through the [Project Euler](https://github.com/PatDaoust/ProjectEuler) problems.
 
 Learning more about:
 * SQL 
