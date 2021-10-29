@@ -56,7 +56,8 @@ Markdown
 ## 📫 How to reach me
 send me an email at daoust.patricia.ja@gmail.com
 I'm delighted to chat about lots of things including:
-* any of my code on Github
+* projects we could work on together
+* any of my code
 * any of my past, current, and future code projects
 * crochet and other fiber arts (especially if you know something about weaving!)
 
