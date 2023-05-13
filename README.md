@@ -3,7 +3,11 @@
 
 ![Pat Daoust](https://user-images.githubusercontent.com/77025162/132956323-84bb6ffd-2041-48cd-a44b-064fc62c1ca6.jpg)
 
-I'm a programmer with experience in Python and Java
+I'm a programming student, graduating May 2023, currently looking for an internship in programming or web development, to fulfill the last requirement of my degree. 
+
+I'm passionate about problem solving, and bring all of my curiosity and creativity to solving the complex problems I come to. I'm fluently bilingual in French and English, both written and spoken.
+
+I have experience in Python, Java, C# and the .NET framework, Javascript, HTML, CSS, SQL and PL/SQL.
 
 ## 🔭 I’m currently working on 
 
@@ -13,8 +17,8 @@ I'm starting with recommendations for specific patterns, and plan to expanded it
 working my way through the [Project Euler](https://github.com/PatDaoust/ProjectEuler) problems.
 
 Learning more about:
-* SQL 
-* APIs and how to build them
+* PL/SQL and procedure generation
+* API developement and their many uses
 * building GIUs with tkinter, Kivy, and WxPython
 
 ## :sparkles: I've worked on 
@@ -33,14 +37,32 @@ Python:
   * Project Euler 100
   * Yarn Recommendations
 
-SQL:
-* general knowledge
-* MySQL, SQlite, OracleSQL
-* python's SQLAlchemy
+Databases:
+* SQl and NoSql varients
+* Model, manage, and modify databases
+*	Ensure data integrity
+*	Program selection procedures 
+* PostgreSQL, MySQL, SQlite, Oracle, Microsoft Server Management Studio, MongoDB
+* Python's SQLAlchemy
 * Yarn Database project 
 
-Java:
-*general knowledge of SE8
+Software Developement:
+* full lyfecycle developement
+  * client interviews
+  * protyping
+  * iterative developement
+  * unit and intergration testing
+  * deployment
+  * post-deployment modifications
+* Windows application with .NET 
+* Web applications
+* Java applications
+
+Website Developement:
+* Full stack: Next.js, Django
+*	Front end: React, Bootstrap, Ajax
+*	Back end: Node.JS, REST APIs, Express
+*	HTML, CSS, JavaScript, jQuery, TypeScript, PHP
 
 General:
 * moderate hardware skills
@@ -48,14 +70,13 @@ General:
 * algorithms, time and space complexity 
 * software construction
 
-HTML
-CSS
 Markdown 
 
 
 ## 📫 How to reach me
 send me an email at daoust.patricia.ja@gmail.com
 I'm delighted to chat about lots of things including:
+* career opportunities
 * projects we could work on together
 * any of my code
 * any of my past, current, and future code projects
