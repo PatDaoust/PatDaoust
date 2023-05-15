@@ -78,7 +78,6 @@ send me an email at daoust.patricia.ja@gmail.com
 I'm delighted to chat about lots of things including:
 * career opportunities
 * projects we could work on together
-* any of my code
 * any of my past, current, and future code projects
 * crochet and other fiber arts (especially if you know something about weaving!)
 
